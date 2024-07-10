@@ -1,22 +1,25 @@
 # About this page
 The directory will take you to various areas of my experience and philosophy related to Talent Acquisition along with some examples of my technical experience that has grown through my knowledge of the tech and engineering spaces along with my lifelong passion of solving complex problems with new tech. 
 
+&nbsp;
 
 # Directory of Expertise
 ### Talent Acquisition Strategies and Processes
 [Philosophy and Process](#recruitment-philosophy)
 
-Selection and Criteria
+[Selection and Criteria](#search-strategy-and-process)
 
-Negotiation Strategies
+[Negotiation Strategies](#negotiation-strategies)
 
-
+&nbsp;
 ### Technical Proficiencies
-Programming Languages
+[Programming Languages](#programming-languages)
 
-Software and Development Tools
+[Software and Development Tools](#software-and-development-tools)
 
-Applicant Tracking Systems
+[Applicant Tracking Systems](#applicant-tracking-systems)
+
+&nbsp;
 
 ---
 
@@ -28,6 +31,7 @@ Putting the "Human" back into **Human Resources** is a key strategy in today's j
 
 ---
 
+&nbsp;
 
 # Search Strategy and Process
 
@@ -44,6 +48,7 @@ Once I have a strong grasp of the need and the environment a diligent Talent Par
 I will take a list of criteria, soft skills and historical context the executive has shared and begin investigating passive talent in the same or similar industries, looking for opportunities to find a lead into casual conversation. Most new employees
 
 ---
+&nbsp;
 
 # Selection Criteria
 Modern candidate selection should incorporate more than the *gut feeling* of a manager. Professional intuition can be a good guidepost when used with mitigated biases in the workplace. 
@@ -55,6 +60,7 @@ To ensure your staff gain and retain the best and most diver talent, along with 
 3. Benchmark yearly goals for leaders to review data trends in hiring. *Ensure the mission you set out on is remaining on track and be comfortable pivoting when plans may not be working out.*
 
 ---
+&nbsp;
 
 # Negotiation Strategies
 
@@ -70,6 +76,7 @@ Letting an executive candidate walk away is the most empowering thing a professi
 Recruiting teams need to pull in all the stakeholders and mediate issues with executive boards, Compensation departments, Finance and the top staff that may be impacted by a golden parachute being given when they themselves saw none of it. 
 
 ---
+&nbsp;
 
 # Programming Languages
 
@@ -79,6 +86,7 @@ Recruiting teams need to pull in all the stakeholders and mediate issues with ex
 | .Org            | Documentation and document preparation combined with LaTex and Pandoc | 3-4                                         |
 | Python          | Bot creation, simple program creation for automation of office tasks  | 2                                           |
 ---
+&nbsp;
 
 # Software and Development Tools
 
@@ -95,6 +103,7 @@ Recruiting teams need to pull in all the stakeholders and mediate issues with ex
 | Snap and Apt package managers | Usage for installation and package troubleshooting                                                                                                                                        | 4                                           |
 | Docker                        | Installation and usage of Docker env and Docker Compose files.                                                                                                                            | 3-4                                         |
 ---
+&nbsp;
 
 # Applicant Tracking Systems
 ### Workday

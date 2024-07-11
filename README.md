@@ -78,6 +78,7 @@ Once they have a strong grasp of the **need** and the environment the new hire w
 ## Search
 I will take a list of criteria, soft skills, and historical context the Executive or Leader in charge has shared, and begin investigating passive talent in the same or similar industries, looking for opportunities to find a lead into casual conversation. 
 
+&nbsp;
 
 > [!TIP]
 > 70% of the global workforce is made up of *passive* talent. [Sourced from LinkedIn](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_us/c/pdfs/Ultimate-List-of-Hiring-Stats-v02.04.pdf)
@@ -90,11 +91,16 @@ I will take a list of criteria, soft skills, and historical context the Executiv
 
 Modern candidate selection should incorporate more than the *gut feeling* of a manager. Professional intuition can be a good guidepost when used with mitigated biases in the workplace. 
 
-To ensure your staff gain and retain the best and most diver talent, along with keeping your organization in **compliance** it's important to incorporate the following guidelines. *I have had the opportunity to develop, implement and train leaders on the following items.*
+To ensure your staff gain and retain the best and most diverse talent, along with keeping your organization in **compliance** it's important to incorporate the following guidelines. *I have had the opportunity to develop, implement and train leaders on the following items.*
 
 1. Track applicant demographic markers to ensure applicants are being reviewed and interviewed equitably and coach managers who may be exhibiting certain biases within the candidate pool. 
 2. Develop and implement manager/staff equity training on bias mitigation, compliance based interview questions and competency driven vetting. 
-3. Benchmark yearly goals for leaders to review data trends in hiring. *Ensure the mission you set out on is remaining on track and be comfortable pivoting when plans may not be working out.*
+3. Benchmark yearly goals for leaders to review data trends in hiring.
+
+&nbsp;
+
+> [!TIP]
+> Ensure the mission you set out is remaining on track and be comfortable pivoting when plans may not be working out.
 
 
 &nbsp;
@@ -102,16 +108,18 @@ To ensure your staff gain and retain the best and most diver talent, along with 
 # Negotiation Strategies
 [Top of page](#table-of-contents)
 
-Candidate negotiation is the bread and butter of a strong recruiting team. A good executive sees their Recruiting team as an hybrid between HR and Sales. Often skills found in one discipline are cross referenced from another on a daily basis and no more than in the negotiation stage. 
+Candidate negotiation is the bread and butter of a strong recruiting team. A good executive sees their Recruiting team as  hybrid between HR and Sales. Often skills found in one discipline are cross referenced from another on a daily basis and no more than in the negotiation stage. 
 
 Pay transparency starts with the Recruiter and the job posting but it ends with the consistent conversations Recruiters are having with their candidates. **It's not about the bottom dollar** and a Recruiter should never make it about money alone. It's about a partnership where a prospect needs to feel valued and the organization needs to remain equitable to what they pay their current staff. 
 
-I've been a part of several equity reviews on candidates and it's important to use a Recruiter as the negotiator and the protector of the organizations finances. Talent Acquisition is where the company meets the public and we should never forget that unique relationship. 
+I've been a part of several equity reviews on candidates and it's important to use a Recruiter as the negotiator and the protector of the organizational finances. Talent Acquisition is where the company meets the public and we should never forget that unique relationship. 
 
-### When Negotiations Should End
-Letting an executive candidate walk away is the most empowering thing a professional should be prepared to do but not without putting up a strong effort. 
+&nbsp;
 
-Recruiting teams need to pull in all the stakeholders and mediate issues with executive boards, Compensation departments, Finance and the top staff that may be impacted by a golden parachute being given when they themselves saw none of it. 
+### When Should Negotiations End?
+Letting an executive candidate, or any candidate, walk away is the most empowering thing a professional should be prepared to do but not without putting up a strong effort. 
+
+Recruiting teams need to pull in all the stakeholders and mediate issues with Executive boards, Compensation departments, Finance and the top staff that may be impacted by a golden parachute being given when they themselves saw none of it. 
 
 
 &nbsp;
@@ -153,9 +161,9 @@ Recruiting teams need to pull in all the stakeholders and mediate issues with ex
 3 years working with Workday Recruiting module as the daily driver for applicant tracking and job requisition management. 
 
 #### Notable Items
-In 2022 I was asked to head up the Workday Recruiting implementation project. We had been testing the product for several months and were asked to quickly implement a fully functional ATS within a few months along with porting over a large dataset. 
+ - In 2022 I was asked to head up the Workday Recruiting implementation project. We had been testing the product for several months and were asked to quickly implement a fully functional ATS within a few months along with porting over a large dataset from our previous system. 
 
-I acted as the SME and Project Lead for the implementation and the ongoing liaison with the HRIS team to develop quality of life improvements as the go-live date. 
+ - SME and Project Lead for the implementation and the ongoing liaison with the HRIS team to develop quality of life improvements as the go-live date. 
 
 ### PCRecruiter
 Utilized this platform for nearly 5 years while working for Weaver Partners. Experience with email integrations for cataloging notes and updates from candidates. 

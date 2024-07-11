@@ -40,7 +40,7 @@ Recruiting talent of any scope in the current market requires integration of  mo
 
 Putting the "Human" back into **Human Resources** is a key strategy in today's job market with employees are craving transparency from the companies they work for. 
 
----
+
 
 &nbsp;
 
@@ -59,7 +59,7 @@ Once I have a strong grasp of the need and the environment a diligent Talent Par
 ## Search
 I will take a list of criteria, soft skills and historical context the executive has shared and begin investigating passive talent in the same or similar industries, looking for opportunities to find a lead into casual conversation. Most new employees
 
----
+
 &nbsp;
 
 # Selection Criteria
@@ -73,7 +73,7 @@ To ensure your staff gain and retain the best and most diver talent, along with 
 2. Develop and implement manager/staff equity training on bias mitigation, compliance based interview questions and competency driven vetting. 
 3. Benchmark yearly goals for leaders to review data trends in hiring. *Ensure the mission you set out on is remaining on track and be comfortable pivoting when plans may not be working out.*
 
----
+
 &nbsp;
 
 # Negotiation Strategies
@@ -90,7 +90,7 @@ Letting an executive candidate walk away is the most empowering thing a professi
 
 Recruiting teams need to pull in all the stakeholders and mediate issues with executive boards, Compensation departments, Finance and the top staff that may be impacted by a golden parachute being given when they themselves saw none of it. 
 
----
+
 &nbsp;
 
 # Programming Languages
@@ -101,7 +101,7 @@ Recruiting teams need to pull in all the stakeholders and mediate issues with ex
 | Markdown        | Website creation, Wiki development and general documentation          | 4                                           |
 | .Org            | Documentation and document preparation combined with LaTex and Pandoc | 3-4                                         |
 | Python          | Bot creation, simple program creation for automation of office tasks  | 2                                           |
----
+
 &nbsp;
 
 # Software and Development Tools
@@ -119,7 +119,7 @@ Recruiting teams need to pull in all the stakeholders and mediate issues with ex
 | OS                            | Extensive experience in Windows 10 and 11 (PowerShell usage) Installation and usage of Ubuntu Linux and Debian based flavors (Command line level). Raspberry PiOS installation and usage. | 4-5                                         |
 | Snap and Apt package managers | Usage for installation and package troubleshooting                                                                                                                                        | 4                                           |
 | Docker                        | Installation and usage of Docker env and Docker Compose files.                                                                                                                            | 3-4                                         |
----
+
 &nbsp;
 
 # Applicant Tracking Systems

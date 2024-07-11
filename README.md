@@ -1,9 +1,9 @@
-# About this page
-The directory will take you to various areas of my experience and philosophy related to Talent Acquisition along with some examples of my technical experience that has grown through my knowledge of the tech and engineering spaces along with my lifelong passion of solving complex problems with new tech. 
+# About This Page
+The directory will take you to various areas of my experience and philosophy related to Talent Acquisition. There are several examples of my technical experience that have developed through self-driven education in  tech and engineering spaces along with my lifelong passion for solving complex problems with creative approaches.
 
 &nbsp;
 
-# Directory of Expertise
+# Table of Contents
 ### Talent Acquisition Strategies and Processes
 [Philosophy and Process](#recruitment-philosophy)
 
@@ -22,7 +22,7 @@ The directory will take you to various areas of my experience and philosophy rel
 &nbsp;
 
 ### Coding Projects
-*List of coding projects that work to streamline the work of a sourcer and recruiter. I enjoy programming as a special interest and enjoy the opporunity to combine my passions and my work experience.*
+*List of coding projects that work to streamline the work of a sourcer and recruiter. I enjoy programming as a special interest and foster the opporunity to combine my passions and my work experience.*
 #### Python Code
 [Resume Scraper](https://github.com/m1jabczynski/talentacquisition/blob/main/code_project_resume_scraper.py)
 
@@ -36,11 +36,13 @@ The directory will take you to various areas of my experience and philosophy rel
 # Recruitment Philosophy
 [Top of page](#directory-of-expertise)
 
-Recruiting talent of any scope in the current market requires integration of  modern data analytics, tracking systems, and intuitive sourcing strategies that allow the professional recruiter to utilize these tools to better complete the core function of communicating with talent and winning them for the organizations further growth. 
+Recruiting talent at any scale requires integration of modern data analytics, tracking systems, and intuitive sourcing strategies that allow the  recruiter to successfully achieve the core function of their trade, communicating and winning new talent for the organizations they work for. 
 
-Putting the "Human" back into **Human Resources** is a key strategy in today's job market with employees are craving transparency from the companies they work for. 
-
-
+Putting the "Human" back into **Human Resources** is a key strategy in today's job market. Employees are craving transparency from the companies they work for in facets such as:
+ - Salary
+ - Benefits
+ - Job Responsibilities
+ - Work Location
 
 &nbsp;
 
@@ -48,16 +50,32 @@ Putting the "Human" back into **Human Resources** is a key strategy in today's j
 [Top of page](#directory-of-expertise)
 
 ## Intake 
-While working with leadership and executive stakeholders, I take a consultative approach to learn about the boardroom dynamics that the new staff member will encounter in addition to the core criteria and responsibilities of the role. 
+While working with **department leaders and executive stakeholders**, I take a consultative approach to learn about the boardroom dynamics that the new staff member will encounter in addition to the core criteria and responsibilities of the role. 
 
-The higher up the corporate ladder you go, *soft skills* become **more** relevant than even the most crucial of technical disciplines. 
+The higher up the corporate ladder you go, *soft skills* become **more** relevant than even the most in-demand technical disciplines. 
 
-Each executive search starts with a small team of Talent Partner and the Executive in charge of filling the role. It's the job of the Talent Partner to ask questions about what they are looking for **and** what they learned about the role's incumbent. Why fill a seat with the same problems?
+Each executive search starts with a **partnership** between Talent Partner and the Leader in charge of filling the role. It's the job of the Talent Partner to ask questions about what they are looking for **and** what they learned about the role's incumbent. 
 
-Once I have a strong grasp of the need and the environment a diligent Talent Partner doesn't waste any time and will start the search. 
+&nbsp;
+
+> Why fill a seat with the same problems?
+
+&nbsp;
+
+Once they have a strong grasp of the **need** and the environment the new hire will be stepping into, a diligent Talent Partner doesn't waste any time and will start the search. 
+
+&nbsp;
+
+> Proactive recruiters are those that know their boundaries but don't wait for constant direction. Our job is to provide leaders with what they **want** and what they **need**.
+
+&nbsp;
 
 ## Search
-I will take a list of criteria, soft skills and historical context the executive has shared and begin investigating passive talent in the same or similar industries, looking for opportunities to find a lead into casual conversation. Most new employees
+I will take a list of criteria, soft skills, and historical context the Executive or Leader in charge has shared, and begin investigating passive talent in the same or similar industries, looking for opportunities to find a lead into casual conversation. 
+
+
+> [!TIP]
+> 70% of the global workforce is made up of *passive* talent. [Sourced from LinkedIn](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_us/c/pdfs/Ultimate-List-of-Hiring-Stats-v02.04.pdf)
 
 
 &nbsp;

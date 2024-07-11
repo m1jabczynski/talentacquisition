@@ -3,6 +3,11 @@ The directory will take you to various areas of my experience and philosophy rel
 
 &nbsp;
 
+> [!NOTE]
+> This page was written exclusively in Markdown Syntax for GitHub
+
+&nbsp;
+
 # Table of Contents
 ### Talent Acquisition Strategies and Processes
 [Philosophy and Process](#recruitment-philosophy)

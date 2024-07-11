@@ -21,7 +21,17 @@ The directory will take you to various areas of my experience and philosophy rel
 
 &nbsp;
 
+### Coding Projects
+*List of coding projects that work to streamline the work of a sourcer and recruiter. I enjoy programming as a special interest and enjoy the opporunity to combine my passions and my work experience.*
+#### Python Code
+[Resume Scraper](https://github.com/m1jabczynski/talentacquisition/blob/main/code_project_resume_scraper.py)
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 ---
+
 
 # Recruitment Philosophy
 

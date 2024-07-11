@@ -34,7 +34,7 @@ The directory will take you to various areas of my experience and philosophy rel
 
 
 # Recruitment Philosophy
-[Top of page](#directory-of-expertise)
+[Top of page](#table-of-contents)
 
 Recruiting talent at any scale requires integration of modern data analytics, tracking systems, and intuitive sourcing strategies that allow the  recruiter to successfully achieve the core function of their trade, communicating and winning new talent for the organizations they work for. 
 
@@ -47,7 +47,7 @@ Putting the "Human" back into **Human Resources** is a key strategy in today's j
 &nbsp;
 
 # Search Strategy and Process
-[Top of page](#directory-of-expertise)
+[Top of page](#table-of-contents)
 
 ## Intake 
 While working with **department leaders and executive stakeholders**, I take a consultative approach to learn about the boardroom dynamics that the new staff member will encounter in addition to the core criteria and responsibilities of the role. 
@@ -81,7 +81,7 @@ I will take a list of criteria, soft skills, and historical context the Executiv
 &nbsp;
 
 # Selection Criteria
-[Top of page](#directory-of-expertise)
+[Top of page](#table-of-contents)
 
 Modern candidate selection should incorporate more than the *gut feeling* of a manager. Professional intuition can be a good guidepost when used with mitigated biases in the workplace. 
 
@@ -95,7 +95,7 @@ To ensure your staff gain and retain the best and most diver talent, along with 
 &nbsp;
 
 # Negotiation Strategies
-[Top of page](#directory-of-expertise)
+[Top of page](#table-of-contents)
 
 Candidate negotiation is the bread and butter of a strong recruiting team. A good executive sees their Recruiting team as an hybrid between HR and Sales. Often skills found in one discipline are cross referenced from another on a daily basis and no more than in the negotiation stage. 
 
@@ -112,7 +112,7 @@ Recruiting teams need to pull in all the stakeholders and mediate issues with ex
 &nbsp;
 
 # Programming Languages
-[Top of page](#directory-of-expertise)
+[Top of page](#table-of-contents)
 
 | Language/Syntax | Usage                                                                 | Level of Proficiency (1 = low) - (5 = high) |
 | --------------- | --------------------------------------------------------------------- | ------------------------------------------- |
@@ -123,7 +123,7 @@ Recruiting teams need to pull in all the stakeholders and mediate issues with ex
 &nbsp;
 
 # Software and Development Tools
-[Top of page](#directory-of-expertise)
+[Top of page](#table-of-contents)
 
 | Software                      | Usage                                                                                                                                                                                     | Level of Proficiency (1 = low) - (5 = high) |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
@@ -141,7 +141,7 @@ Recruiting teams need to pull in all the stakeholders and mediate issues with ex
 &nbsp;
 
 # Applicant Tracking Systems
-[Top of page](#directory-of-expertise)
+[Top of page](#table-of-contents)
 
 ### Workday
 #### Summary of Experience
